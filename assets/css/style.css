@@ -930,7 +930,7 @@ section {
 }
 
 .portfolio .icon-box:hover .icon {
-  background: #fff;
+  background:rgba(45,45,45,0.6) ;
 }
 
 .portfolio .icon-box:hover .icon i {
@@ -938,7 +938,7 @@ section {
 }
 
 .portfolio .icon-box:hover .icon::before {
-  background: #e82d2d;
+  background:#e82d2d;
 }
 
 .portfolio .icon-box:hover h4 a, .services .icon-box:hover p {
