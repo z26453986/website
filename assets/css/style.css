@@ -535,7 +535,7 @@ section {
 .section-title span {
   position: absolute;
   top: 30px;
-  color: #f4f4f4;
+  color: rgba(231,231,231,0.7);
   left: 0;
   right: 0;
   z-index: 1;
@@ -1532,3 +1532,5 @@ section {
     margin: -20px 0 30px 0;
   }
 }
+
+
